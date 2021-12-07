@@ -36,7 +36,5 @@ public class Main {
             System.out.println("Nothing is wrong with being a lone traveler. Good luck and godspeed.");
         }
 
-
-
     }
 }
