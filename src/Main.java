@@ -6,7 +6,6 @@ public class Main {
         System.out.println("Howdy, DevmMountain!");
 
         // part 2
-
         Scanner input = new Scanner(System.in); // get input
 
         System.out.println("What is your favorite color?");
